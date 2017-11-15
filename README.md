@@ -13,7 +13,7 @@ This is the repo for our solutions to [Applied Predictive Modeling](http://appli
     - creates a tibble of collections of resamples
 
 3. [`recipes`](https://topepo.github.io/recipes/)
-    - This sounds very exciting. This is designing a tidy workflow for model building and formula syntax. Works well with `caret` train functions.
+    - This sounds very exciting. The goal is to design a tidy workflow for model building and formula syntax. Works well with `caret` train functions.
 
 
 
