@@ -21,7 +21,7 @@ This is the repo for our solutions to [Applied Predictive Modeling](http://appli
 
 This is a list of other references I'd like to explore that I feel fit into the machine learning theme of the book. 
 
-1. [Spatial Prediction](https://matthewdharris.com/2016/04/19/predicting-in-feature-space/) at Quantitative Archeology. 
+1. [Spatial Prediction](https://matthewdharris.com/2016/04/19/predicting-in-feature-space/) at Quantitative Archaeology. 
 
 2. Some GAN examples:
 
