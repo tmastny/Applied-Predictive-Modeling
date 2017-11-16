@@ -7,7 +7,7 @@ This is the repo for our solutions to [Applied Predictive Modeling](http://appli
 ## Max Kuhn Packages
 
 1. [`tidyposterior`](https://topepo.github.io/tidyposterior/index.html)
-    - Bayesian modeling of RMSE cross-validation statistics, Kuhn considers an upgrade to the `caret::resamples` function. Works natively with
+    - Bayesian modeling of RMSE cross-validation statistics, which Kuhn considers an upgrade to the `caret::resamples` function. Works natively with
     
 2. [`rsample`](https://topepo.github.io/rsample/index.html)
     - creates a tibble of collections of resamples
