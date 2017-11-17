@@ -32,3 +32,5 @@ This is a list of other references I'd like to explore that I feel fit into the 
     c. https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/
     
 3. [Deep Learning with small data](https://simplystatistics.org/2017/05/31/deeplearning-vs-leekasso/) at simplystats
+
+4. http://amber.rbind.io/projects/2016/11/05/titanic/
