@@ -34,3 +34,9 @@ This is a list of other references I'd like to explore that I feel fit into the 
 3. [Deep Learning with small data](https://simplystatistics.org/2017/05/31/deeplearning-vs-leekasso/) at simplystats
 
 4. http://amber.rbind.io/projects/2016/11/05/titanic/
+
+## Bayesian Neural Networks
+
+1. https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138
+
+2. http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_2248.html
