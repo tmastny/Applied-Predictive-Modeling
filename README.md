@@ -40,3 +40,7 @@ This is a list of other references I'd like to explore that I feel fit into the 
 1. https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138
 
 2. http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_2248.html
+
+## Variational Inference in GANs and Bayesian models
+
+1. http://www.inference.vc/variational-inference-with-implicit-probabilistic-models-part-1-2/
