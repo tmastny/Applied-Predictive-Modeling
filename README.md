@@ -44,3 +44,7 @@ This is a list of other references I'd like to explore that I feel fit into the 
 ## Variational Inference in GANs and Bayesian models
 
 1. http://www.inference.vc/variational-inference-with-implicit-probabilistic-models-part-1-2/
+
+## ANN
+
+1. ANN example in R
