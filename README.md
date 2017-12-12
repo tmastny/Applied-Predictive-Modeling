@@ -5,6 +5,7 @@ This is the repo for our solutions to [Applied Predictive Modeling](http://appli
 [Here](https://topepo.github.io/caret/index.html) is the `caret` package reference book.
 
 ## Max Kuhn Packages
+Here is a general update on Max Kuhn's progress: http://appliedpredictivemodeling.com/blog/2017/11/15/some-package-updates?utm_content=bufferc2484&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 1. [`tidyposterior`](https://topepo.github.io/tidyposterior/index.html)
     - Bayesian modeling of RMSE cross-validation statistics, which Kuhn considers an upgrade to the `caret::resamples` function. Works natively with
